@@ -1,0 +1,31 @@
+import random
+from datetime import datetime
+#Bitcoin(BTC)
+#Cardano(ADA)
+#Ethereum(Ether)
+#Bitcoin cash(BCH)
+#Stellar(XLM)
+#Chainlink(LINK)
+#EOS(IO.EOS)
+print("******************************************************")
+print("         ************BIENVENIDOS************")
+print("******************************************************")
+moneda=input("        Ingrese el Nombre de la Moneda:->>").upper()
+cantidad = float(input("        Ingrese la Cantidad de su ("+moneda+"):"))
+count=0
+hora = datetime.now()
+print("******************************************************")
+print("           ************INFORME************")
+print("******************************************************")
+print("          Dia y hora, en la que se realizo la consulta")
+print("                   ___________________________________")
+print(hora.strftime("                   B%A %d/%B/%Y %I:%M:%S:%p"))
+print("                   ___________________________________")
+print("***********************************************************************************")
+while count<7:
+    profit=random.uniform(-0.03,0.03)
+    cantidad=cantidad+(cantidad*profit)
+    count+=1
+    print("El saldo de su Moneda (",moneda,") el dia ",count," es de: %6.7f"%cantidad+". Ganacia de %6.2f"%(profit*100),"%")
+print("***********************************************************************************")
+print("")

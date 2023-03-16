@@ -1,0 +1,17 @@
+{
+    "folders": [
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "cSpell.words": [
+            "cotizacion"
+        ]
+    },
+    "extensions": {
+        "recommendations": [
+            "EricSia.pythonsnippets3"
+        ]
+    }
+}

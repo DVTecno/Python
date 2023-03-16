@@ -1,0 +1,20 @@
+print("************************************************************")
+print("            ************BIENVENIDOS************")
+print("************************************************************")
+criptomoneda = input("Ingrese el Nombre de la moneda: ")
+cant_criptomoneda = float(input("Ingrese la cantidad de la moneda que posee: "))
+cant_dias = int(input("Ingrese la cantidad de dias negaciables: "))
+gancia_fija = float(input("Ingrese la ganacia fija por dia: "))
+ganancia_total=gancia_fija*cant_criptomoneda/100*cant_dias
+monto_total = ganancia_total+cant_criptomoneda
+print("*****************************************************")
+print("              ************INFORME************")
+print("*****************************************************")
+print("Tu Criptomoneda es "+criptomoneda)
+print("La cantidad de tus BITCOINS es: "+str(cant_criptomoneda))
+print("*****************************************************")
+print("Dias negociados: "+str(cant_dias))
+print("Ganacia total por los dias negociados: "+str(ganancia_total))
+print("El monto total de la ganacia de tu criptomoneda es: "+str(monto_total))
+print("************************************************************")
+

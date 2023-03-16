@@ -1,0 +1,13 @@
+print("CÃ¡lculo de Ã¡rea y perÃ­metro")
+alto = float(input("Indica el alto del rectÃ¡ngulo: "))
+ancho = float(input("Indica el ancho del rectÃ¡ngulo: "))
+area = alto*ancho
+perimetro = (alto*2)+(ancho*2)
+print(f"El Ã¡rea del rectÃ¡ngulo es {area}")
+print(f"El perÃ­metro del rectÃ¡ngulo es {perimetro}")
+pi=3.1416
+radio=float(input("Ingresa el radio del cÃ­rculo: "))
+area=pi*radio**2
+perimetro=2*pi*radio
+print(f"El Ã¡rea del cÃ­rculo es {area}")
+print(f"El perÃ­metro del cÃ­rculo es {perimetro}")

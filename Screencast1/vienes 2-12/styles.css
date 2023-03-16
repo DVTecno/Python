@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 15px;
+    display: block;
+}
+header h1{
+    border-radius: 10px;
+    background-color: brown;
+    color: azure;
+    text-align: center;
+    margin: 0 0 20px;
+    height: 100%;
+}
+div.content p{
+    display: flex;
+    margin: auto;
+
+}
+img{
+    border-radius: 15px;
+     width: 80%;
+     display: flex;
+     padding: 5px;
+     margin: auto;
+
+}
+.content{
+    padding: 20px 25px;
+    font-weight: 800;
+    font-size: 16px;
+}
+figcaption{
+    padding: 10px 0;
+    text-align-last: center;
+}
+footer{
+    background-color: blue;
+    color: azure;
+}

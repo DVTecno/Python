@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    font-family: Verdana;
+    display: flex;
+}
+
+header{
+    background: darkslateblue;
+    padding: 15px;
+    font-weight: 900;
+    width: 100%;
+    position: fixed
+    7
+    ;
+}
+
+h1{
+    border: 1px solid white;
+    color: white;
+}
+
+footer{
+    background: blue;
+    border-radius: 50%;
+    color: white;
+    height: 150px;
+    width: 150px;
+    font-size: 25px;
+    text-align: center;
+}
+
+div[class^='box']{
+    height: 30px;
+    padding: 15px;
+    margin: 5px;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+   
+}
+
+.box-1{
+    background-color: orange;
+    width: 30px;
+}
+
+.box-2{
+    background-color: purple;
+    width: 30px;
+}
+
+.box-3{
+    background-color:turquoise;
+}
+
+div[class^='container']{
+    width: 30%;
+    height: 500px;
+    background-color: darkcyan;
+    border: 1px solid white;
+    display: flex;
+}
+
+

@@ -1,0 +1,5 @@
+Altcoin: Término empleado para referirse a las criptomonedas o fichas de blockchain alternativas a Bitcoin; como Litecoin, Ethereum, Dash, Monero, Zcash, Feathercoin y PPcoin, entre otros.
+Bitcoin: (con B mayúscula)	Se utiliza para describir el concepto de Bitcoin, la totalidad de la red blockchain que sustenta a la criptomoneda y el protocolo que se ejecuta sobre ella.
+bitcoin: (con b minúscula)	Se refiere a la unidad de la criptomoneda basada en la red blockchain homónima, pudiendo ser usada en singular y en plural (bitcoin y bitcoins). Se abrevia como BTC, y a veces como XBT, aunque esta última ha entrado en desuso progresivamente.
+Blockchain: Nombre que recibe actualmente la tecnología Bitcoin y sus bifurcaciones, pero que se refiere específicamente a la secuencia de bloques que almacenan información y que han sido verificados por los usuarios de la red desde sus inicios.
+BTC: Abreviatura para referirse a las unidades de bitcoins.

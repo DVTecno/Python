@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mi Tienda de Celulares</title>
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="{% url 'home' %}">Inicio</a>
+      <a href="{% url 'productos' %}">Productos</a>
+      <a href="{% url 'contacto' %}">Contacto</a>
+    </nav>
+  </header>
+
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer>
+    Copyright © 2021 Mi Tienda de Celulares
+  </footer>
+</body>
+</html>

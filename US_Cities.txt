@@ -1,0 +1,65 @@
+Alaska|PETERSBURG|Kake
+Alaska|PETERSBURG|Pelican
+Alaska|PETERSBURG|Pelican
+Alaska|PETERSBURG|Pelican
+Alaska|PETERSBURG|Pelican
+Alaska|HOONAH|ANGOON|Kupreanof
+Alaska|HOONAH|ANGOON|Kupreanof
+Alaska|HOONAH|ANGOON|Kupreanof
+Alaska|HOONAH|ANGOON|Kupreanof
+Alaska|HOONAH|ANGOON|Kupreanof
+Alaska|HOONAH|ANGOON|Kupreanof
+Alaska|PETERSBURG|Petersburg
+Alaska|SITKA|Port Alexander
+Alaska|PETERSBURG|Petersburg
+Alaska|SITKA|Port Alexander
+Alaska|PETERSBURG||Petersburg
+Alaska|SITKA|Port Alexander
+Alaska|PETERSBURG|Kake
+Alaska|PETERSBURG|Pelican
+Alaska|PETERSBURG|Pelican
+Alaska|HOONAH|ANGOON||Kupreanof
+Alaska|PETERSBURG|Petersburg
+Alaska|SITKA|Port Alexander
+Alaska|PETERSBURG|Kake
+Alaska|PETERSBURG|Pelican
+Alaska|PETERSBURG|Pelican
+Alaska|HOONAH|ANGOON|Kupreanof
+Alaska||PETERSBURG|Petersburg
+Alaska|SITKA|Port Alexander
+Alaska|PETERSBURG|Kake
+Alaska|PETERSBURG|Pelican
+Alaska|PETERSBURG|Pelican
+Alaska|HOONAH|ANGOON|Kupreanof
+Alaska|PETERSBURG|Petersburg
+Alaska|SITKA|Port Alexander
+Alaska|PETERSBURG|Kake
+Alaska|PETERSBURG|Pelican
+Alaska|PETERSBURG|Pelican
+Alaska|HOONAH|ANGOON|Kupreanof
+Alaska|PETERSBURG|Petersburg
+Alaska|SITKA|Port Alexander
+Alaska|PETERSBURG|Kake
+Alaska|PETERSBURG|Pelican
+Alaska|PETERSBURG|Pelican
+Alaska|HOONAH|ANGOON|Kupreanof
+Alaska|PETERSBURG|Petersburg
+Alaska|SITKA|Port Alexander
+Alaska|PETERSBURG|Kake
+Alaska|PETERSBURG|Pelican
+Alaska|PETERSBURG|Pelican
+Alaska|HOONAH|ANGOON|Kupreanof
+Alaska|PETERSBURG|Petersburg
+Alaska|SITKA|Port Alexander
+Alaska|PETERSBURG|Kake
+Alaska|PETERSBURG|Pelican
+Alaska|PETERSBURG|Pelican
+Alaska|HOONAH|ANGOON||Kupreanof
+Alaska|PETERSBURG|Petersburg
+Alaska|SITKA|Port Alexander
+Alaska|PETERSBURG|Kake
+Alaska|PETERSBURG|Pelican
+Alaska|PETERSBURG|Pelican
+Alaska|HOONAH|ANGOON|Kupreanof
+Alaska|PETERSBURG|Petersburg
+Alaska|SITKA|Port Alexander
